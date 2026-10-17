@@ -1,0 +1,9 @@
+# Generated from project.yml using XcodeGen
+*.xcodeproj/
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+*.ipa
+*.dSYM/
